@@ -26,10 +26,11 @@ If you use external APIs:
 ### Competition
 
 On the day, a list of 20 things will be provided. The winner is the solution that gets the most right answers.
-The elevation map is represented in the example is represented by the black lines in the image below. The blue lines represent the water that will be trapped.
 
 ### Solution Usages
 
 ```
 ./gradlew word --args="dog"
+
+./gradlew word --args="book worm"
 ```

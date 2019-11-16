@@ -1,0 +1,5 @@
+tv
+radio
+book
+table
+floor
